@@ -45,9 +45,15 @@ According to the table above a full factorial requires 18 experiments, which is 
 
 <img width="367" height="377" alt="image" src="https://github.com/user-attachments/assets/1172f30c-63cc-46fb-bbe1-847380fa4595" />
 
+### 
+
 The variables are changed to minimum, zero and maximum: (-1, 0 and 1), for making fractial design experiment, where will be chosen only:
 
+### 
+
 <img width="418" height="34" alt="image" src="https://github.com/user-attachments/assets/a33a1b45-4618-4e03-a9b0-d93aa34c84b8" />
+
+###
 
 <img width="457" height="476" alt="image" src="https://github.com/user-attachments/assets/b7c553a2-a5fa-45ec-bad8-890a1111d131" />
 
@@ -81,16 +87,38 @@ Looking at this, it can be summed up, that the main interest of the product is k
 - DFX (Design for X) and Sustainability Oriented Innovation
 - Prototyping
 - Alpha prototyping
-  <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/42161be5-946e-468d-a040-581f31b0f1c0" />
-  <img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/695b2479-dd25-475b-b87e-c605574666d9" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/42161be5-946e-468d-a040-581f31b0f1c0" />
+
+
+<img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/695b2479-dd25-475b-b87e-c605574666d9" />
+
 - Beta Prototyping
-  <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/bdbe7c22-35a2-4d1d-82f3-44eabc6c2bbc" />
-  <img width="843" height="489" alt="image" src="https://github.com/user-attachments/assets/d8ccc4f0-bf24-496f-b594-89852048b5f6" />
-  <img width="468" height="274" alt="image" src="https://github.com/user-attachments/assets/b2a2de65-e24d-4053-aad1-cc0905ba39b4" />
+
+  
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/bdbe7c22-35a2-4d1d-82f3-44eabc6c2bbc" />
+
+###
+
+<img width="843" height="489" alt="image" src="https://github.com/user-attachments/assets/d8ccc4f0-bf24-496f-b594-89852048b5f6" />
+
+###
+
+<img width="468" height="274" alt="image" src="https://github.com/user-attachments/assets/b2a2de65-e24d-4053-aad1-cc0905ba39b4" />
+
+###
+
 - Mass Production
+
+  
 - LCA
-  <img width="563" height="259" alt="image" src="https://github.com/user-attachments/assets/ea41425e-1ae7-431d-b7c8-3f79b18fbc76" />
-  <img width="385" height="294" alt="image" src="https://github.com/user-attachments/assets/f6a77ea2-d6bf-47c6-b78a-9a53d1ab5bcc" />
+
+###
+  
+<img width="563" height="259" alt="image" src="https://github.com/user-attachments/assets/ea41425e-1ae7-431d-b7c8-3f79b18fbc76" />
+
+###
+
+<img width="385" height="294" alt="image" src="https://github.com/user-attachments/assets/f6a77ea2-d6bf-47c6-b78a-9a53d1ab5bcc" />
 
 ## Result
 
@@ -116,9 +144,14 @@ The product development team contacted an industrial design student, who helped 
 - Distribution plans
 - Charity/Environmental projects
 - Market competitors
-  <img width="614" height="180" alt="image" src="https://github.com/user-attachments/assets/4b9326f6-dbd9-4611-8e2f-0108daa48a95" />
+
+<img width="614" height="180" alt="image" src="https://github.com/user-attachments/assets/4b9326f6-dbd9-4611-8e2f-0108daa48a95" />
+
+##
+
 - SWOT-analysis
-  <img width="786" height="552" alt="image" src="https://github.com/user-attachments/assets/01885701-39bc-4183-bea1-f56666d2eca9" />
+
+<img width="786" height="552" alt="image" src="https://github.com/user-attachments/assets/01885701-39bc-4183-bea1-f56666d2eca9" />
 
 ## Discussion
 
